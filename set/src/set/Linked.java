@@ -14,7 +14,7 @@ public class Linked {
 		for(Integer b:a)
 		{
 			System.out.println(b);
-			// git
+			// git hub
 		}
 	}
 
