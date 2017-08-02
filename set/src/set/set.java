@@ -10,7 +10,7 @@ public class set {
 		a.add(14);
 		a.add(15);
 		a.add(1);
-		
+		//print
 		for(Integer b:a)
 		{
 			System.out.println(b);
